@@ -1,4 +1,4 @@
-# Grobe Planung
+# Grobe Planung-LP 2
 ## 23.10.2026
 <ul>
   <li>An persönlichem Unity-Project (2D-Game) weiterarbeiten</li>
