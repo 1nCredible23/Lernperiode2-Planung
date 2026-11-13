@@ -3,7 +3,7 @@
 <ul>
   <li>An persönlichem Unity-Project (2D-Game) weiterarbeiten</li>
 </ul>
-<h3> 13.11.2026 </h3>
+<h2> 13.11.2026 </h2>
 <ul>
   <li>Projekte ins Auge fassen</li>
   <li>Modul 162 nachholen</li>
